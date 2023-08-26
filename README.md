@@ -1,7 +1,24 @@
 # KROK do ZIROK
 
-Here you can find questions/answers:
+The objective of this tool is to assist students in studying for their exams on https://test.testcentr.org.ua
 
+How to install KROK do ZIROK?
+1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension for the Google Chrome
+2. Open [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) script and click to "Reinstall"
+   
+![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
+
+3. Make sure the extension is Enabled
+
+![image](https://github.com/kpobb1989/KROK/assets/37598255/87ed46bb-c17d-4e52-8920-9ad6b0e15808)
+
+4. Open any KROK ([sample](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4)) and you will find the form will be autofilled
+
+![image](https://github.com/kpobb1989/KROK/assets/37598255/76c4ec48-9ea6-49e0-8ff4-eb8c6fe2da7c)
+
+List of all KROK questions/answers:
+
+2023 year
 1) [Крок 1 Медицина (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/4.json)
 2) [Крок 1 Медицина (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/6.json)
 3) [Krok 1 Medicine (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/7.json)
@@ -38,17 +55,5 @@ Here you can find questions/answers:
 34) [Крок М Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/56.json)
 35) [Крок Б Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/57.json)
 
-Here you can find a script which will autofill the form on https://test.testcentr.org.ua
-1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension for the Google Chrome
-2. Open [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) script and click to "Reinstall"
-   
-![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
 
-3. Make sure the extension is Enabled
-
-![image](https://github.com/kpobb1989/KROK/assets/37598255/87ed46bb-c17d-4e52-8920-9ad6b0e15808)
-
-4. Open any KROK ([sample](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4)) and you will find the form will be autofilled
-
-![image](https://github.com/kpobb1989/KROK/assets/37598255/76c4ec48-9ea6-49e0-8ff4-eb8c6fe2da7c)
 
