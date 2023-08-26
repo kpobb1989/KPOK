@@ -47,6 +47,7 @@
         if (answer) {
             Array.from(document.querySelectorAll('div')).find(el => el.textContent.replace(/<[^>]*>/g, '') == answer)?.parentNode.parentNode.querySelector('input[type="radio"]').click();
 
+           // Uncomment the line below if you want to complete the entire test
            //document.querySelector('input[type="submit"][name="next"][value="Next page"]')?.click();
         }
     }
