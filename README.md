@@ -1,4 +1,4 @@
-# KROK
+![image](https://github.com/kpobb1989/KROK/assets/37598255/9d1374d7-95f0-4afc-bd2e-d6b25d12d3a9)# KROK
 
 Here you can find questions/answers:
 
@@ -41,7 +41,11 @@ Here you can find questions/answers:
 Here you can find a script which will autofill the form on https://test.testcentr.org.ua
 1. Install Tampermonkey extension for the [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 2. Open [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) a script
-3. Make sure the extension is Enabled
+3. Click to "Reinstall"
+   
+![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
+
+   5. Make sure the extension is Enabled
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/87ed46bb-c17d-4e52-8920-9ad6b0e15808)
 
