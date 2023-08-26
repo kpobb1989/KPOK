@@ -1,4 +1,4 @@
-![image](https://github.com/kpobb1989/KROK/assets/37598255/9d1374d7-95f0-4afc-bd2e-d6b25d12d3a9)# KROK
+# KROK do ZIROK
 
 Here you can find questions/answers:
 
@@ -45,7 +45,7 @@ Here you can find a script which will autofill the form on https://test.testcent
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
 
-   5. Make sure the extension is Enabled
+   5. Make sure the [extension is Enabled](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=dashboard)
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/87ed46bb-c17d-4e52-8920-9ad6b0e15808)
 
