@@ -40,7 +40,7 @@ Here you can find questions/answers:
 
 Here you can find a script which will autofill the form on https://test.testcentr.org.ua
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension for the Google Chrome
-2. Open [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) a script
+2. Open [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) script
 3. Click to "Reinstall"
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
