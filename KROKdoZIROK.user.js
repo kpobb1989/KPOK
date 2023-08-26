@@ -40,12 +40,14 @@
     else{
         const question = document.querySelector(".qtext").textContent;
 
+        console.log(question);
+
         const answer = answers[question]?.find(answer => answer.Correct)?.Answer;
 
         if (answer) {
-            Array.from(document.querySelectorAll('div')).find(el => el.textContent == answer)?.parentNode.parentNode.querySelector('input[type="radio"]').click();
+            Array.from(document.querySelectorAll('div')).find(el => el.textContent.replace(/<[^>]*>/g, '') == answer)?.parentNode.parentNode.querySelector('input[type="radio"]').click();
 
-            document.querySelector('input[type="submit"][name="next"][value="Next page"]')?.click();
+           //document.querySelector('input[type="submit"][name="next"][value="Next page"]')?.click();
         }
     }
 })();
