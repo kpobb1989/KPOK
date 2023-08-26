@@ -39,7 +39,7 @@ Here you can find questions/answers:
 35) [Крок Б Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/57.json)
 
 Here you can find a script which will autofill the form on https://test.testcentr.org.ua
-1. Install Tampermonkey extension for the [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension for the Google Chrome
 2. Open [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) a script
 3. Click to "Reinstall"
    
