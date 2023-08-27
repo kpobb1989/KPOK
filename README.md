@@ -6,7 +6,8 @@
 1. Встановіть розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для Google Chrome
 2. Встановіть додаток [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) та натисніть Перевстановити / Reinstall
    
-![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
+![image](https://github.com/kpobb1989/KROK/assets/37598255/05d8b091-6f2c-4ab2-b621-7dcaee5e8076)
+
 
 3. Розпочніть будь-який тест на сайті ([наприклад](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4))
 
