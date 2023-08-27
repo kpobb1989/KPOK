@@ -2,7 +2,7 @@
 
 Основна мета даного додатку - допомогти студентам медичних вузів у підготовці до екзаменів на https://test.testcentr.org.ua
 
-Як встановити додаток "KROK do ZIROK"?
+Як встановити додаток KROKdoZIROK?
 1. Встановіть розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для Google Chrome
 2. Встановіть додаток [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) та натисніть Перевстановити / Reinstall
    
