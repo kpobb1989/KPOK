@@ -4,15 +4,15 @@
 
 Як встановити застосунок KROK do ZIROK?
 1. Встановіть [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) розширення для Google Chrome
-2. Встановіть [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) скрипт на натисніть на "Reinstall"
+2. Встановіть [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) скрипт та натисніть на "Reinstall"
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
 
-3. Впевніться
+3. Впевніться що розширення умівкнено
 
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/87ed46bb-c17d-4e52-8920-9ad6b0e15808)
 
-4. Почніть будь-який тест на сайті ([приклад](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4)) і після відкрития будь-якої сторінки з питаннями правильна відповідь буде обрана автоматично.
+4. Почніть будь-який тест на сайті ([приклад](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4)) і після відкрития будь-якої сторінки з питаннями, правильна відповідь буде обрана автоматично.
 
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/76c4ec48-9ea6-49e0-8ff4-eb8c6fe2da7c)
 
