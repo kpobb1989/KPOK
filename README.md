@@ -16,11 +16,11 @@
 
 5.  Після відкриття будь-якої сторінки з питаннями, правильна відповідь буде обрана автоматично.
 
-![image](https://github.com/kpobb1989/KROK/assets/37598255/76c4ec48-9ea6-49e0-8ff4-eb8c6fe2da7c)
+![Clipboard02](https://github.com/kpobb1989/KROK/assets/37598255/7697b1be-0bba-47f0-8ba9-ffbb16a7956c)
 
 Результат:
 
-![image](https://github.com/kpobb1989/KROK/assets/37598255/893ab6ae-937c-45f4-92e9-196dd934bbb1)
+![image](https://github.com/kpobb1989/KROK/assets/37598255/e35e6956-0dda-499d-8be0-681ece6c6059)
 
 Список усіх питань та відповідей для усіх курсів 2023 року:
 
