@@ -23,25 +23,25 @@
 1) [Крок 1 Медицина (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/4.json) - 1173 питань
 2) [Крок 1 Медицина (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/6.json) - 1125 питань
 3) [Krok 1 Medicine (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/7.json) - 1170 питань
-4) [Крок 2 Медицина (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/8.json) - 1097 питань
-5) [Krok 2 Medicine (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/9.json) - 1036 питань
-6) [Крок 2 Медицина (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/10.json) - 956 питань
-7) [Крок 2 Медична психологія (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/12.json) - 794 питань
-8) [Krok 2 Stomatology 2023 (EN)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/13.json) - 982 питань
-9) [Крок 2 Стоматологія 2023 (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/14.json) - 1043 питань
-10) [Крок 2 Стоматология 2023 (RU)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/16.json) - 963 питань
-11) [Крок 2 Фармація (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/17.json) - 780 питань
-12) [Krok 2 Pharmacy (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/18.json) - 904 питань
-13) [Крок 2 Фармация (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/20.json) - 851 питань
-14) [Крок 2 Фізична терапія (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/21.json) - 35 питань
-15) [Крок 2 Громадське здоров'я (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/22.json) - 150 питань
-16) [Крок 2 Технології медичної діагностики та лікування](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/23.json) - 496 питань
-17) [Крок 1 Фармація (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/24.json) - 698 питань
-18) [Krok 1 Pharmacy (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/25.json) - 678 питань
-19) [Крок 1 Фармация (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/27.json) - 884 питань
-20) [Крок 1 Стоматология (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/30.json) - 1166 питань
-21) [Крок 1 Стоматологія (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/32.json) - 1192 питань
-22) [Krok 1 Stomatology (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/33.json) - 1091 питань
+4) [Крок 1 Фармація (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/24.json) - 698 питань
+5) [Krok 1 Pharmacy (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/25.json) - 678 питань
+6) [Крок 1 Фармация (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/27.json) - 884 питань
+7) [Крок 1 Стоматология (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/30.json) - 1166 питань
+8) [Крок 1 Стоматологія (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/32.json) - 1192 питань
+9) [Krok 1 Stomatology (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/33.json) - 1091 питань
+10) [Крок 2 Медицина (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/8.json) - 1097 питань
+11) [Krok 2 Medicine (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/9.json) - 1036 питань
+12) [Крок 2 Медицина (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/10.json) - 956 питань
+13) [Крок 2 Медична психологія (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/12.json) - 794 питань
+14) [Krok 2 Stomatology 2023 (EN)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/13.json) - 982 питань
+15) [Крок 2 Стоматологія 2023 (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/14.json) - 1043 питань
+16) [Крок 2 Стоматология 2023 (RU)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/16.json) - 963 питань
+17) [Крок 2 Фармація (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/17.json) - 780 питань
+18) [Krok 2 Pharmacy (EN) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/18.json) - 904 питань
+19) [Крок 2 Фармация (RU) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/20.json) - 851 питань
+20) [Крок 2 Фізична терапія (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/21.json) - 35 питань
+21) [Крок 2 Громадське здоров'я (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/22.json) - 150 питань
+22) [Крок 2 Технології медичної діагностики та лікування](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/23.json) - 496 питань
 23) [Крок 3 Лабораторна діагностика (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/34.json) - 812 питань
 24) [Крок 3 Стоматологія (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/35.json) - 516 питань
 25) [Крок 3 Фармація (UA)](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/36.json) - 159 питань
@@ -55,6 +55,3 @@
 33) [Крок М Лікувальна справа 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/55.json) - 249 питань
 34) [Крок М Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/56.json) - 245 питань
 35) [Крок Б Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/57.json) - 248 питань
-
-
-
