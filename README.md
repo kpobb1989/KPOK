@@ -1,4 +1,4 @@
-# KROK do ZIROK
+# КРОК ДО ЗІРОК
 
 The objective of this tool is to assist students in studying for their exams on https://test.testcentr.org.ua
 
