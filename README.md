@@ -1,6 +1,6 @@
 # КРОК ДО ЗІРОК
 
-Основна мета даного додатку - надавати допомогу студентам медичних вузів у підготовці до екзаменів на https://test.testcentr.org.ua
+Основна мета даного додатку - допомогти студентам медичних вузів у підготовці до екзаменів на https://test.testcentr.org.ua
 
 Як встановити додаток "KROK do ZIROK"?
 1. Встановіть розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для Google Chrome
