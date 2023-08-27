@@ -1,20 +1,20 @@
 # КРОК ДО ЗІРОК
 
-Основна ціль цього застосунку - допомогти студентам медичних вузів у підготовці до екзаменів на  https://test.testcentr.org.ua
+Основна мета даного додатку - надавати допомогу студентам медичних вузів у підготовці до екзаменів на https://test.testcentr.org.ua
 
-Як встановити застосунок KROK do ZIROK?
-1. Встановіть [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) розширення для Google Chrome
-2. Встановіть [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) додаток та натисніть на "Reinstall"
+Як встановити додаток "KROK do ZIROK"?
+1. Встановіть розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для Google Chrome
+2. Встановіть додаток [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) та натисніть Перевстановити / Reinstall
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/6a578f3c-9be4-45ce-85fb-17990ee62a17)
 
-3. Почніть будь-який тест на сайті ([приклад](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4))
+3. Розпочніть будь-який тест на сайті ([наприклад](https://test.testcentr.org.ua/mod/quiz/attempt.php?attempt=204554&cmid=4))
 
-4. Впевніться що розширення умівкнено
+4. Переконайтеся, що розширення активовано
 
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/87ed46bb-c17d-4e52-8920-9ad6b0e15808)
 
-5.  Після відкриття будь-якої сторінки з питаннями, правильна відповідь буде обрана автоматично.
+5.  Після відкриття будь-якої сторінки з питаннями, правильна відповідь буде автоматично вибрана
 
 ![Clipboard02](https://github.com/kpobb1989/KROK/assets/37598255/7697b1be-0bba-47f0-8ba9-ffbb16a7956c)
 
@@ -59,3 +59,5 @@
 33) [Крок М Лікувальна справа 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/55.json) - 249 питань
 34) [Крок М Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/56.json) - 245 питань
 35) [Крок Б Лабораторна діагностика 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/57.json) - 248 питань
+
+PS: Будь ласка, користуйтесь цим додатком з розумом
