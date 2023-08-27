@@ -18,6 +18,10 @@
 
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/76c4ec48-9ea6-49e0-8ff4-eb8c6fe2da7c)
 
+Результат:
+
+![image](https://github.com/kpobb1989/KROK/assets/37598255/893ab6ae-937c-45f4-92e9-196dd934bbb1)
+
 Список усіх питань та відповідей для усіх курсів 2023 року:
 
 1) [Крок 1 Медицина (UA) 2023](https://raw.githubusercontent.com/kpobb1989/KROK/master/2023/4.json) - 1173 питань
