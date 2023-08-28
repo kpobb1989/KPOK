@@ -4,7 +4,7 @@
 
 Як встановити додаток KROKdoZIROK?
 1. Встановіть розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) для Google Chrome
-2. Встановіть додаток [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) та натисніть Перевстановити / Reinstall
+2. Встановіть додаток [KROKdoZIROK](https://github.com/kpobb1989/KROK/raw/master/KROKdoZIROK.user.js) та натисніть Install або Reinstall
    
 ![image](https://github.com/kpobb1989/KROK/assets/37598255/05d8b091-6f2c-4ab2-b621-7dcaee5e8076)
 
