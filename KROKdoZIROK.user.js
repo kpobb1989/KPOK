@@ -40,15 +40,17 @@
     else{
         const question = document.querySelector(".qtext").textContent;
 
-        console.log(question);
-
         const answer = answers[question]?.find(answer => answer.Correct)?.Answer;
 
         if (answer) {
-            Array.from(document.querySelectorAll('div')).find(el => el.textContent.replace(/<[^>]*>/g, '') == answer)?.parentNode.parentNode.querySelector('input[type="radio"]').click();
+            var radioBtn = Array.from(document.querySelectorAll('div')).find(el => el.textContent.replace(/<[^>]*>/g, '').replace("  ", " ") == answer)?.parentNode.parentNode.querySelector('input[type="radio"]');
 
-           // Uncomment the line below if you want to complete the entire test
-           //document.querySelector('input[type="submit"][name="next"][value="Next page"]')?.click();
+            if(radioBtn){
+                radioBtn.click();
+
+				// Uncomment the line below if you want to complete the entire test
+                //document.querySelector('input[type="submit"][name="next"][value="Next page"]')?.click();
+            }
         }
     }
 })();
